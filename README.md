@@ -30,7 +30,7 @@ COLORES: **#F2F6ED** **#CDCBC4** **#3C3D2F** **#CCBCA5** **#000000**
         ![Maqueta](https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/assets/img/plantilla-events-html.jpg?raw=true)
     * Formulario Maqueta
       
-        ![Maqueta](https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/ProyectoEva1/assets/img/plantilla-form.jpg?raw=true)
+        ![Maqueta](https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/assets/img/plantilla-form.jpg?raw=true)
     * Contacto Maqueta
       
         ![Maqueta](https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/ProyectoEva1/assets/img/PlantillaContacto.png?raw=true)
