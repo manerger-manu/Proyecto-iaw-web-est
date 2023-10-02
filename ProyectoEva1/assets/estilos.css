@@ -6,6 +6,7 @@ body{
 }
 
 .card{
-    background-color: rgba(255, 255, 255, 0.767) !important;
+    background-color: rgba(31, 31, 31, 0.377) !important;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+    color: white;
 }
