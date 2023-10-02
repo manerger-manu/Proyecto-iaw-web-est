@@ -6,6 +6,7 @@ Este proyecto trata sobre la venta de drones super avanzados, donde pretendemos 
 2º ASIR
 
 **Enmanuel Holgado Liza**
+
 **Iñigo Ancin**
 
 URL: https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/index.html
