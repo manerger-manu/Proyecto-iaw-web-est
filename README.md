@@ -24,7 +24,7 @@ COLORES: **#F2F6ED** **#CDCBC4** **#3C3D2F** **#CCBCA5** **#000000**
 * Prototipos
     * Index Maqueta
       
-        ![Maqueta](https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/ProyectoEva1/assets/img/PlantillIndex.png?raw=true)
+        ![Maqueta](https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/assets/img/PlantillIndex.png?raw=true)
     * Events Maqueta
       
         ![Maqueta](https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/assets/img/plantilla-events-html.jpg?raw=true)
