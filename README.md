@@ -13,7 +13,7 @@ URL: https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/index.html
 
 ## Aspectos de nuestra página
 * Paleta de colores
-![paleta](./assets/img/"paleta de colores.jpg")
+![paleta]([./assets/img/"paleta de colores.jpg"](https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/assets/img/paleta%20de%20colores.jpg?raw=true))
 COLORES: **#F2F6ED** **#CDCBC4** **#3C3D2F** **#CCBCA5** **#000000**
 * Fuentes
 
