@@ -30,7 +30,7 @@ Estos colores fueron elegidos por que la mayoría de los drones estan hechos de 
       Esta maqueta es la típica para la venta de cualquier producto, donde se muestran los modelos que vendemos y estan en progreso, ya sea en cartas o en carruseles, asi como una demostración en un video de como graban.
         ![Maqueta](https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/assets/img/plantilla-events-html.jpg?raw=true)
     * Formulario Maqueta
-      Tipico formulario
+      Tipico formulario para realizar tanto el inicio de sesion así como el registro por si la persona desea comprar en nuestro sitio web, no tiene más, en la maqueta falto poner las imagenes de verificado.
         ![Maqueta](https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/assets/img/plantilla-form.jpg?raw=true)
     * Contacto Maqueta
       
