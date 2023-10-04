@@ -16,7 +16,7 @@ URL: https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/index.html
 ![paleta](https://github.com/manerger-manu/Proyecto-iaw-web-est/blob/main/assets/img/paleta%20de%20colores.jpg?raw=true)
 
 COLORES: **#F2F6ED** **#CDCBC4** **#3C3D2F** **#CCBCA5** **#000000**
-Estos colores fueron elegidos por que la mayoría de los drones estan hechos de metal y acero, por lo cual queda bine el blanco y negro, con otras variantes.
+Estos colores fueron elegidos por que la mayoría de los drones estan hechos de metal y acero, por lo cual queda bien el blanco y negro, con otras variantes.
 * Fuentes
 
     'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS' y sans-serif.
